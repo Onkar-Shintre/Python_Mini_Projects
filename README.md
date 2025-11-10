@@ -1,1 +1,0 @@
-# 🐍 Python Mini Projects Welcome to my collection of **beginner to intermediate-level Python projects**! This repository includes small, practical programs created to strengthen my Python concepts and problem-solving skills. ## 
