@@ -4,7 +4,6 @@ A collection of simple Python-based terminal games created to practice logic bui
 This repository currently includes:
 
 ✅ Tic-Tac-Toe  
-
 ✅ Rock–Paper–Scissors  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
