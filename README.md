@@ -18,4 +18,7 @@ Python_Mini_Projects/
 │
 └── rock_paper_scissor/
 └── rps.py
+├── dice/
+│ └── dice.py
+
 
