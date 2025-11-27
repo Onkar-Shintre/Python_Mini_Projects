@@ -23,6 +23,5 @@ Python_Mini_Projects/
 ├── chatbot/
 │ └── chatbot.py
 
-|
 
 
