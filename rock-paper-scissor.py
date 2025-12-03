@@ -2,7 +2,7 @@ import random
 
 options = ("rock","paper","scissors")
 running = True 
-#iii
+#i
 while running :
 
     player = None
