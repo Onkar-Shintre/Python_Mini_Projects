@@ -4,7 +4,7 @@ options = ("rock","paper","scissors")
 running = True 
 
 while running :
-//mknl
+//mkn
     player = None
     computer = random.choice(options)
 
