@@ -10,4 +10,6 @@ while True :
     if(Qs == "quit"):
         break
     else:
-        print(Qna[Qs])
+
+        print(Qna[Qs])    
+
